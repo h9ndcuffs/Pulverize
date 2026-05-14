@@ -8,5 +8,5 @@ This is made mainly for games such as:
 - Miniblox.io
 - minefun.io
 
-```
-This code is open-sourced and is free to be copied or re-used by any developer. It is also extremely customizable and easy to change /update.```
+
+*This code is open-sourced and is free to be copied or re-used by any developer. It is also extremely customizable and easy to change/update.*
